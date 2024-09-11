@@ -36,7 +36,11 @@ To run the calculator locally:
 
 ## 🖼️ Screenshot
 
-![Calculator Screenshot](calculator.PNG)
+
+![Calculator Screenshot](calculator.PNG)  ![image](https://github.com/user-attachments/assets/53077f2f-7500-4647-9e1e-03dbfc22e7c8)
+
+
+
 
 ## 📜 License
 
